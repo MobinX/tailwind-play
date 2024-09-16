@@ -9,6 +9,7 @@ const externals = {
   purgecss: 'self.purgecss',
   chokidar: 'self.chokidar',
   tmp: 'self.tmp',
+  e
   'vscode-emmet-helper-bundled': 'null',
 }
 
